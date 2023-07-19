@@ -1,6 +1,5 @@
 # Arabic Sentences Similarity Detection using AraVec Word Embedding
 
-![AraVec](https://github.com/bakrianoo/aravec/tree/master)
 
 ## Introduction
 
